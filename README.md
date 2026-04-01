@@ -5,7 +5,10 @@
 **student at YEUNGNAM UNIV, KOREA**
 
 # Interested 
+interested at Embedded system
 
+# Now
+C, C++, Python
 
 
 
