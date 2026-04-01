@@ -1,10 +1,8 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
-
 # Introduce
 영남대학교 기계IT대학 정보통신공학과에 재학중
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=mulpure](https://github-readme-stats.vercel.app/api?username=mulpure))
 
 <!--
 **mulpure/mulpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
