@@ -1,7 +1,19 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
-# Introduce
-영남대학교 기계IT대학 정보통신공학과에 재학중
+
+# INTRODUCTION
+**student at YEUNGNAM UNIV, KOREA**
+
+# Interested 
+
+
+
+
+# CONTACT
+Email : iwish45@yu.ac.kr
+
+
+
 
 
 <!--
