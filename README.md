@@ -1,4 +1,4 @@
- <img src ="https://img.shields.io/badge/html-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/css-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/><img src ="https://img.shields.io/badge/python-blue.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
+ <img src ="https://img.shields.io/badge/html-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/css-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/python-blue.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
 
 
 ## Welcome 
