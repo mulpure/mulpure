@@ -1,4 +1,6 @@
 <img src ="https://img.shields.io/badge/python-white.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
+<img src ="https://img.shields.io/badge/C-white.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
+
 
 ## Welcome 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
