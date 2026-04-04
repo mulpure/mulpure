@@ -1,5 +1,4 @@
-<img src ="https://img.shields.io/badge/python-white.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
-<img src ="https://img.shields.io/badge/C-white.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
+<img src ="https://img.shields.io/badge/python-blue.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/html-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
 
 
 ## Welcome 
@@ -7,21 +6,17 @@
 
 # INTRODUCTION
 **student at YEUNGNAM UNIV, KOREA**
-major : Information & Communication Engineering
+  *(major : Information & Communication Engineering)*
 
 
 # Now studying
-C++
-
-
-
+ C++
 
 # Interested 
-interested at Embedded system, IOT, PGM(Precision Guided Munition) embedded system.
+interested at Embedded system, IoT, PGM(Precision Guided Munition) embedded system.
 
 # LINKS
-Email : iwish45@yu.ac.kr
-Homepage : dongdog.netlify.app
+Email : iwish45@yu.ac.kr /  Homepage : dongdog.netlify.app
 
 
 
