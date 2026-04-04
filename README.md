@@ -6,17 +6,22 @@
 
 # INTRODUCTION
 **student at YEUNGNAM UNIV, KOREA**
-  *(major : Information & Communication Engineering)*
+  - *major : Information & Communication Engineering)*
 
 
 # Now studying
- C++
+ - C++
+ - digital locig & circuit
 
 # Interested 
-interested at Embedded system, IoT, PGM(Precision Guided Munition) embedded system.
+interested at 
+- Embedded system
+- IoT
+- PGM(Precision Guided Munition) embedded system.
 
 # LINKS
-Email : iwish45@yu.ac.kr /  Homepage : dongdog.netlify.app
+- Email : iwish45@yu.ac.kr 
+- Homepage :	[personal hompage](dongdog.netlify.app)
 
 
 
