@@ -21,7 +21,7 @@ interested at
 
 # LINKS
 - Email : iwish45@yu.ac.kr 
-- Homepage :	[personal hompage](dongdog.netlify.app)
+- Homepage :	[dongdog.netlify.app](dongdog.netlify.app)
 
 
 
