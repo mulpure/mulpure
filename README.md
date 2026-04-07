@@ -11,12 +11,11 @@
 
 # Now studying
  - C++
- - digital locig & circuit
+ - digital logic & circuit
 
 # Interested 
 interested at 
-- Embedded system
-- IoT
+- IoT embedded system
 - PGM(Precision Guided Munition) embedded system.
 
 # LINKS
