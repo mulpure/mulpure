@@ -1,4 +1,5 @@
- <img src ="https://img.shields.io/badge/html-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/css-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/python-blue.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C++-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
+
+ [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=small)](https://myhits.vercel.app)<img src ="https://img.shields.io/badge/html-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/css-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/python-blue.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C++-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
 
 
 ## Welcome 
