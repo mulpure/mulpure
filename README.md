@@ -4,6 +4,11 @@
 ## Welcome 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight" />
+</p>
+
 # INTRODUCTION
 **student at YEUNGNAM UNIV, KOREA**
   - *major : Information & Communication Engineering)*
