@@ -1,9 +1,5 @@
 
-[![view ](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=view+&size=small&base_count=100)](https://myhits.vercel.app) ![Embedded System](https://img.shields.io/badge/Embedded%20System-0A192F?style=flat-square&logo=raspberrypi&logoColor=white) <img src ="https://img.shields.io/badge/html-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>  <img src ="https://img.shields.io/badge/css-yellow.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/python-blue.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/> <img src ="https://img.shields.io/badge/C++-orange.svg?&style=flat&logo=MySQL&logoColor=4479A1"/>
-![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=html5&logoColor=black)
-
-![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=css&logoColor=black)
-
+[![view ](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=view+&size=small&base_count=100)](https://myhits.vercel.app) ![Embedded System](https://img.shields.io/badge/Embedded%20System-0A192F?style=flat-square&logo=raspberrypi&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=css&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-F89939?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-F89939?style=flat-square&logo=cplusplus&logoColor=white)
 
 ## Welcome 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
