@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight"/>
 </p>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mulpure&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # INTRODUCTION
 **student at YEUNGNAM UNIV, KOREA**
   - *major : Information & Communication Engineering)*
