@@ -4,14 +4,12 @@
 ## Welcome 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mulpure&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 
 # INTRODUCTION
