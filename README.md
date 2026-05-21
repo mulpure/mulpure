@@ -9,7 +9,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mulpure&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&langs_count=10&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight&hide=html,css,javascript&langs_count=10"/>
 </p>
 
 # INTRODUCTION
