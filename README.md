@@ -2,15 +2,10 @@
 [![view ](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=view+&size=small&base_count=100)](https://myhits.vercel.app) ![Embedded System](https://img.shields.io/badge/Embedded%20System-0A192F?style=flat-square&logo=raspberrypi&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=css&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-F89939?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-F89939?style=flat-square&logo=cplusplus&logoColor=white)
 
 ## Welcome 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulpure&show_icons=true&theme=radical)
-
-
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mulpure&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&theme=tokyonight"/>
 </p>
-
 
 # INTRODUCTION
 **student at YEUNGNAM UNIV, KOREA**
@@ -30,9 +25,12 @@ interested at
 - Email : iwish45@yu.ac.kr 
 - Homepage :	[dongdog.netlify.app](dongdog.netlify.app)
 
+<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,git,github" />
+</p>
 
 
-![](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmulpure?color=blue&label=VISITORS&size=small)
 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mulpure&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
