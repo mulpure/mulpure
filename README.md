@@ -1,12 +1,7 @@
 
 [![view ](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=view+&size=small&base_count=100)](https://myhits.vercel.app) ![Embedded System](https://img.shields.io/badge/Embedded%20System-0A192F?style=flat-square&logo=raspberrypi&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=css&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-F89939?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-F89939?style=flat-square&logo=cplusplus&logoColor=white)
 
-## Welcome 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mulpure&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mulpure&layout=compact&langs_count=10&theme=tokyonight"/>
-</p>
 
 
 # INTRODUCTION
